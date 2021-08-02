@@ -6,15 +6,13 @@ izlebirlikte is an open source youtube video synchronizer made by using real tim
 
 Before trying to use izlebirlikte you must install node.js and run this commands on your terminal/cmd
 
-``
-
+```
 npm init -y
 
 npm install express
 
 npm install socket.io
-
-``
+```
 
 after that you can easily use the app with that code to run in terminal/cmd
 
@@ -29,13 +27,13 @@ izlebirlikte gerçek zamanlı veri gönderimi ile yapılmış bir açık kaynak 
 
 izlebirlikte'yi terminal/cmd'de çalıştırmadan önce node.js'i kurmalı ve aşağıdaki komutları terminalde çalıştırmalısınız.
 
-``
+```
 npm init -y
 
 npm install express
 
 npm install socket.io
-``
+```
 
 Sonrasında uygulamayı şu kodu terminal/cmd'de çalıştırarak bulabilirsiniz.
 
