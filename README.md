@@ -14,7 +14,7 @@ after that you can easily use the app with that code to run in terminal/cmd
 
 ``node index.js`` (you must emphasize the directory with cd command)
 
-open this URL ----> localhost:3000
+open this URL ----> ``localhost:3000``
 
 
 TR
@@ -33,5 +33,5 @@ Sonrasında uygulamayı şu kodu terminal/cmd'de çalıştırarak bulabilirsiniz
 
 ``node index.js`` (cd komutunu kullanarak dosyanın konumunu belirtmeniz gerekiir.)
 
-bu URL'yi açın ----> localhost:3000
+bu URL'yi açın ----> ``localhost:3000``
 
