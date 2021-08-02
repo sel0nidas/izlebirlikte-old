@@ -7,7 +7,9 @@ izlebirlikte is an open source youtube video synchronizer made by using real tim
 Before trying to use izlebirlikte you must install node.js and run this commands on your terminal/cmd
 ``
 npm init -y
+
 npm install express
+
 npm install socket.io
 ``
 after that you can easily use the app with that code to run in terminal/cmd
@@ -25,7 +27,9 @@ izlebirlikte'yi terminal/cmd'de çalıştırmadan önce node.js'i kurmalı ve a�
 
 ``
 npm init -y
+
 npm install express
+
 npm install socket.io
 ``
 
