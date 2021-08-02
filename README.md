@@ -2,7 +2,7 @@
 
 EN
 
-izlebirlikte is an open source youtube video synchronizer made by using real time data sending. Not complex, it just put it to explain how it works and can be activated as well. Little optimizations should be done, some of them is really chaos. I will add a room system and id system as well. So far i did that and it works good generally. 
+izlebirlikte is an open source youtube video synchronizer made by using real time data sending. Not complex, i just put it to explain how it works and can be activated as well. Little optimizations should be done, some of them is really chaos. I will add a room system and id system as well. So far i did that and it works good generally. 
 
 Before trying to use izlebirlikte you must install node.js and run this commands on your terminal/cmd
 
